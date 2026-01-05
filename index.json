@@ -1,0 +1,13 @@
+{
+  "name": "HitomiKR Repo",
+  "packages": [
+    {
+      "name": "HitomiKR",
+      "pkg": "eu.kanade.tachiyomi.extension.id.hitomikr",
+      "apk": "hitomikr-v1.apk",
+      "lang": "id",
+      "version": 1,
+      "nsfw": true
+    }
+  ]
+}
